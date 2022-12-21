@@ -43,3 +43,6 @@ https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 #EXTINF:-1 tvg-id="CNN.us" status="timeout",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="ComedyDynamics.us" status="timeout",Comedy Dynamics (1080p)
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
